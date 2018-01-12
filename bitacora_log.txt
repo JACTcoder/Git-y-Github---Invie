@@ -1,0 +1,23 @@
+commit e05b2f52c09d545aaf7da97acfb3b777df00e011
+Author: Julian Ceron <julian.ceron03@gmail.com>
+Date:   Thu Jan 11 10:47:29 2018 -0500
+
+    agregando guitarra acustica
+
+commit bb5547ceb9df0106d8d51630e183d7f06ac91700
+Author: Julian Ceron <julian.ceron03@gmail.com>
+Date:   Thu Jan 11 10:39:34 2018 -0500
+
+    sumando nuevo hero
+
+commit 6b469da4e4ba548be5f398ee4d3787ebce535320
+Author: Julian Ceron <julian.ceron03@gmail.com>
+Date:   Wed Jan 10 23:01:38 2018 -0500
+
+    agregando el header
+
+commit a6cb18e178a6c90e34e1e134d9a3347a5902af72
+Author: Julian Ceron <julian.ceron03@gmail.com>
+Date:   Wed Jan 10 18:52:38 2018 -0500
+
+    inicializar nuestro landing
